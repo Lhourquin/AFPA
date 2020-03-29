@@ -13,6 +13,6 @@ Veuillez coller ici vos liens vers votre gitHub
  - Lefebvre 		Guillaume 
  - Cédric 			Brasme 
  - Willebrouck 		Rémi            https://github.com/Willremi
- - Hourquin 		Lucas 
+ - Hourquin 		Lucas   https://github.com/Lhourquin
  - Audrey 			Bucholz 
  - Romuald 			Detrait https://github.com/RomualdLewandoski
